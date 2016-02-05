@@ -1,0 +1,23 @@
+{
+  "name": "expressintro",
+  "version": "1.0.0",
+  "description": "a simple intro to the express framework using node.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammerg/expressIntro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammerg/expressIntro/issues"
+  },
+  "homepage": "https://github.com/tammerg/expressIntro#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  }
+}
